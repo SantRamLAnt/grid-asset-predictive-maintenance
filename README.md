@@ -41,5 +41,6 @@ Machine learning solution for predicting failures in electrical grid assets usin
 4. Make predictions on new data using the feature engineering pipeline
 
 ## Author
-[Your Name] - [Your Email]
-LinkedIn: [Your LinkedIn Profile]
+Luis Antonio Santiago-Ramirez - lasrsecond@gmail.com
+LinkedIn: www.linkedin.com/in/luisantoniosantiago-ramirez-70b418196![image](https://github.com/user-attachments/assets/464a1ebf-40bb-4475-a663-6a19c4529c55)
+
