@@ -1,0 +1,14 @@
+temperature
+vibration
+load_percent
+weather_severity
+last_maintenance_days
+age_years
+health_score
+temp_vibration_ratio
+load_temp_product
+high_temp
+high_vibration
+maintenance_overdue
+risk_score
+asset_type_encoded
